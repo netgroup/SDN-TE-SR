@@ -1,2 +1,2 @@
 # SDN-TE-SR
-Tools for SDN based Traffic Engineering and Segment Routing
+SDN based Traffic Engineering and Segment Routing
