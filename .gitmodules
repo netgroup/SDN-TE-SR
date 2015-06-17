@@ -1,0 +1,3 @@
+[submodule "OSHI-SR-dataplane-extensions"]
+	path = OSHI-SR-dataplane-extensions
+	url = https://github.com/netgroup/OSHI-SR-dataplane-extensions.git
