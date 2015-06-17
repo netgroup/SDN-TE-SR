@@ -1,3 +1,6 @@
 [submodule "OSHI-SR-dataplane-extensions"]
 	path = OSHI-SR-dataplane-extensions
 	url = https://github.com/netgroup/OSHI-SR-dataplane-extensions.git
+[submodule "SDN-TE-SR-tools"]
+	path = SDN-TE-SR-tools
+	url = https://github.com/netgroup/SDN-TE-SR-tools.git
