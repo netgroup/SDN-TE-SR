@@ -1,0 +1,3 @@
+[submodule "SDN-TE-SR-tools"]
+	path = SDN-TE-SR-tools
+	url = https://github.com/netgroup/SDN-TE-SR-tools.git
